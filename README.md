@@ -1,1 +1,1 @@
-# TRTLv2zkRFvTsaBW5mBBvG43cxxSCcanYCmG2UfMA5kKEVtN4Ax68QATDu9A7Z4TqnhqPsmLJKWybREfqFAUU4sz1KFY9SrdvfE
+# --algorithm argon2id_chukwa2 --pool turtlecoin.herominers.com:10380 --wallet TRTLv2zkRFvTsaBW5mBBvG43cxxSCcanYCmG2UfMA5kKEVtN4Ax68QATDu9A7Z4TqnhqPsmLJKWybREfqFAUU4sz1KFY9SrdvfE --password minos.colab
