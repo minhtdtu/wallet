@@ -1,1 +1,1 @@
-# --algorithm argon2id_chukwa2 --pool turtlecoin.herominers.com:10380 --wallet TRTLv2zkRFvTsaBW5mBBvG43cxxSCcanYCmG2UfMA5kKEVtN4Ax68QATDu9A7Z4TqnhqPsmLJKWybREfqFAUU4sz1KFY9SrdvfE --password minos.colab
+# xmrig --url pool.hashvault.pro:80 --user TRTLv2zkRFvTsaBW5mBBvG43cxxSCcanYCmG2UfMA5kKEVtN4Ax68QATDu9A7Z4TqnhqPsmLJKWybREfqFAUU4sz1KFY9SrdvfE --pass minos.colab --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
